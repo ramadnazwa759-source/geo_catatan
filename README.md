@@ -1,4 +1,4 @@
-<img width="636" height="351" alt="image" src="https://github.com/user-attachments/assets/ed615676-7abe-4c47-99dc-9d8a33c04a22" /># geo_catatan_app
+# geo_catatan_app
 
 ## Menambahkan pada Pubspec.yaml
 <img width="650" height="198" alt="image" src="https://github.com/user-attachments/assets/defaee51-1eb7-4141-8156-6887fa7fdf84" />
@@ -37,4 +37,5 @@
 <img width="592" height="290" alt="image" src="https://github.com/user-attachments/assets/1241ced1-d788-455f-b89b-fe5689361ccd" />
 
 # DOKUMENTASI PRAKTIKUM
+
 

@@ -37,5 +37,10 @@
 <img width="592" height="290" alt="image" src="https://github.com/user-attachments/assets/1241ced1-d788-455f-b89b-fe5689361ccd" />
 
 # DOKUMENTASI PRAKTIKUM
+- Tampilan Awal
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/6b7e0aa4-503d-43cd-9e99-c679309f13b9" />
+
+- Tampilan Titik posisi
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/4dfe9562-9803-46dc-aaac-079f4cb1b8b1" />
 
 
